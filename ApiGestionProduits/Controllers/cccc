@@ -13,7 +13,7 @@ namespace ApiGestionProduits.Controllers
         {
             _productContext = productContext;
         }
-      //Get All Product from database
+      
         //Get All Product from database
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Product>>> GetAllProduct()
