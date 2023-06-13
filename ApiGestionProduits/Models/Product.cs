@@ -16,6 +16,4 @@ namespace ApiGestionProduits.Models
         public string? Image { get; set; }
         public int Rating { get; set; }
     }
-
-    //public 
 }
