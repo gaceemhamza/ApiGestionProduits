@@ -20,10 +20,5 @@ namespace ApiGestionProduits.Models
         {
             return "";
         }
-
-        public string AddProduct(Product product)
-        {
-            return "";
-        }
     }
 }
